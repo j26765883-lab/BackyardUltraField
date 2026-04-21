@@ -1,0 +1,12 @@
+bin/
+gen/
+*.prg
+*.prg.debug.xml
+*.iq
+*.mir
+Rez.mir
+*.der
+secrets.json
+.DS_Store
+.vscode/
+.idea/
